@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:996231231186:android:845d258a77ddcab7",
         "android_client_info": {
-          "package_name": "com.adobe.phonegap.app"
+          "package_name": "com.adobe.phonegap.test"
         }
       },
       "oauth_client": [
